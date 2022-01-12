@@ -1,4 +1,4 @@
-package com.samwadi.hotel01;
+package com.samwadi.HotelReservationSystem;
 
 import android.os.Bundle;
 
@@ -10,7 +10,10 @@ import androidx.navigation.Navigation;
 import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
 
-import com.samwadi.hotel01.databinding.ActivityMainBinding;
+//import com.samwadi.HotelReservationSystem.databinding.ActivityMainBinding;
+
+import HotelReservationSystem.R;
+import HotelReservationSystem.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
 

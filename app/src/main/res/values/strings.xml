@@ -1,6 +1,8 @@
-<resources>
-    <string name="app_name">Hotel0.1</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Hotel Reservation System</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_account">Account</string>
+    <string name="amenities">Amenities</string>
+    <string name="book_now">Book Now</string>
 </resources>

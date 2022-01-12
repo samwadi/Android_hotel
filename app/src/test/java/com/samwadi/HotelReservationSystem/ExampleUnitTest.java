@@ -1,4 +1,4 @@
-package com.samwadi.hotel01;
+package com.samwadi.HotelReservationSystem;
 
 import org.junit.Test;
 

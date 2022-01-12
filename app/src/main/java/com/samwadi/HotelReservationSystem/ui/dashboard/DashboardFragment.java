@@ -1,4 +1,4 @@
-package com.samwadi.hotel01.ui.dashboard;
+package com.samwadi.HotelReservationSystem.ui.dashboard;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -12,8 +12,9 @@ import androidx.fragment.app.Fragment;
 import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProvider;
 
-import com.samwadi.hotel01.R;
-import com.samwadi.hotel01.databinding.FragmentDashboardBinding;
+
+
+import HotelReservationSystem.databinding.FragmentDashboardBinding;
 
 public class DashboardFragment extends Fragment {
 

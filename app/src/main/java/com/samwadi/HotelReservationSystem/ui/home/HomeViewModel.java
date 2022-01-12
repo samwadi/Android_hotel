@@ -1,4 +1,4 @@
-package com.samwadi.hotel01.ui.home;
+package com.samwadi.HotelReservationSystem.ui.home;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;

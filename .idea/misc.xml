@@ -3,14 +3,39 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/boss_/StudioProjects/Hotel-Reservation-System/app/src/main/res/layout/activity_reservation_details.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/boss_/StudioProjects/Hotel-Reservation-System/app/src/main/res/layout/activity_room_details.xml" value="0.14375" />
+        <entry key="..\:/Users/boss_/StudioProjects/Hotel-Reservation-System/app/src/main/res/layout/activity_room_main.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/boss_/StudioProjects/Hotel-Reservation-System/app/src/main/res/layout/activity_room_recycler.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/boss_/StudioProjects/Hotel-Reservation-System/app/src/main/res/layout/activity_room_recycler_adapter.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/boss_/StudioProjects/Hotel-Reservation-System/app/src/main/res/layout/activity_room_reserve.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/boss_/StudioProjects/Hotel-Reservation-System/app/src/main/res/layout/activity_room_search.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/boss_/StudioProjects/Hotel-Reservation-System/app/src/main/res/layout/fragment_account.xml" value="0.14375" />
+        <entry key="..\:/Users/boss_/StudioProjects/Hotel-Reservation-System/app/src/main/res/layout/fragment_dashboard.xml" value="0.14375" />
+        <entry key="..\:/Users/boss_/StudioProjects/Hotel-Reservation-System/app/src/main/res/layout/fragment_home.xml" value="0.14375" />
+        <entry key="..\:/Users/boss_/StudioProjects/Hotel01/app/src/main/res/drawable-v24/ic_baseline_single_bed_24.xml" value="0.15260416666666668" />
         <entry key="..\:/Users/boss_/StudioProjects/Hotel01/app/src/main/res/drawable/buttonstyleithgradient.xml" value="0.15989583333333332" />
         <entry key="..\:/Users/boss_/StudioProjects/Hotel01/app/src/main/res/drawable/gradientbackground.xml" value="0.290625" />
         <entry key="..\:/Users/boss_/StudioProjects/Hotel01/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/boss_/StudioProjects/Hotel01/app/src/main/res/layout/activity_room_search.xml" value="0.13645833333333332" />
         <entry key="..\:/Users/boss_/StudioProjects/Hotel01/app/src/main/res/layout/fragment_account.xml" value="0.2558876811594203" />
         <entry key="..\:/Users/boss_/StudioProjects/Hotel01/app/src/main/res/layout/fragment_dashboard.xml" value="0.18840579710144928" />
         <entry key="..\:/Users/boss_/StudioProjects/Hotel01/app/src/main/res/layout/fragment_home.xml" value="0.18840579710144928" />
         <entry key="..\:/Users/boss_/StudioProjects/Hotel01/app/src/main/res/layout/fragment_notifications.xml" value="0.18840579710144928" />
         <entry key="..\:/Users/boss_/StudioProjects/Hotel01/app/src/main/res/menu/bottom_nav_menu.xml" value="0.14375" />
+        <entry key="..\:/Users/boss_/StudioProjects/Hotel1/app/src/main/res/drawable-v24/horizontal_line.xml" value="0.290625" />
+        <entry key="..\:/Users/boss_/StudioProjects/Hotel1/app/src/main/res/drawable-v24/ic_24px_star.xml" value="0.290625" />
+        <entry key="..\:/Users/boss_/StudioProjects/Hotel1/app/src/main/res/drawable-v24/ic_cart_24px.xml" value="0.290625" />
+        <entry key="..\:/Users/boss_/StudioProjects/Hotel1/app/src/main/res/drawable-v24/rounded_linear_layout.xml" value="0.290625" />
+        <entry key="..\:/Users/boss_/StudioProjects/Hotel1/app/src/main/res/layout/activity_hotel_info.xml" value="0.1716485507246377" />
+        <entry key="..\:/Users/boss_/StudioProjects/Hotel1/app/src/main/res/layout/activity_login.xml" value="0.1716485507246377" />
+        <entry key="..\:/Users/boss_/StudioProjects/Hotel1/app/src/main/res/layout/activity_reservation_details.xml" value="0.23052536231884058" />
+        <entry key="..\:/Users/boss_/StudioProjects/Hotel1/app/src/main/res/layout/activity_room_details.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/boss_/StudioProjects/Hotel1/app/src/main/res/layout/activity_room_main.xml" value="0.23052536231884058" />
+        <entry key="..\:/Users/boss_/StudioProjects/Hotel1/app/src/main/res/layout/fragment_account.xml" value="0.1716485507246377" />
+        <entry key="..\:/Users/boss_/StudioProjects/Hotel1/app/src/main/res/layout/fragment_dashboard.xml" value="0.23052536231884058" />
+        <entry key="..\:/Users/boss_/StudioProjects/Hotel1/app/src/main/res/layout/fragment_home.xml" value="0.1716485507246377" />
+        <entry key="..\:/Users/boss_/StudioProjects/Hotel1/app/src/main/res/layout/hotelcard.xml" value="0.1716485507246377" />
       </map>
     </option>
   </component>

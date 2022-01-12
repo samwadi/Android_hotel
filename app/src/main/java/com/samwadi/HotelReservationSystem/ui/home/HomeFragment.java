@@ -1,4 +1,4 @@
-package com.samwadi.hotel01.ui.home;
+package com.samwadi.HotelReservationSystem.ui.home;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -12,8 +12,9 @@ import androidx.fragment.app.Fragment;
 import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProvider;
 
-import com.samwadi.hotel01.R;
-import com.samwadi.hotel01.databinding.FragmentHomeBinding;
+
+
+import HotelReservationSystem.databinding.FragmentHomeBinding;
 
 public class HomeFragment extends Fragment {
 
